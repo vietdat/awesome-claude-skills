@@ -189,6 +189,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 - [swiftui-design-skill](https://github.com/wholiver/swiftui-design-skill) - SwiftUI 前端设计 skill — 反 AI Slop 六条铁律、设计方向顾问、品牌资产协议、五维评审。支持 Claude Code / Cursor / Codex / OpenCode 等全部 AI agent 平台。 *By [@wholiver](https://github.com/wholiver)*
 - [Pixelbin-Media-Generation](https://github.com/anandpareek-hub/pixelbin-claude-skill) - Generate and edit images & videos with 85+ API portfolio and build visually appealing website pages
+- [ai-photo-to-film-kit](https://github.com/vietdat/ai-photo-to-film-kit) - Turn still photos into a cinematic AI video: 38 copy-paste prompts for Kling, Runway, Wan and Veo, complete wedding, anniversary and proposal storyboards, a Claude skill, and an ffmpeg assembly script.
 
 ### Productivity & Organization
 
@@ -217,6 +218,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
+- [vibe-code-rescue](https://github.com/vietdat/vibe-code-rescue) - Audit AI-generated (vibe-coded) code before you launch it: a Claude Code skill + Node.js CLI that finds leaked secrets, broken access control, BOLA, SQL injection and vulnerable dependencies, and writes a plain-language report with a grade.
 
 ### Assistive Technology
 
